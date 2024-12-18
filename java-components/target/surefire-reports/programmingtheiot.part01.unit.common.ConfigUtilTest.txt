@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: programmingtheiot.part01.unit.common.ConfigUtilTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.019 s <<< FAILURE! - in programmingtheiot.part01.unit.common.ConfigUtilTest
+programmingtheiot.part01.unit.common.ConfigUtilTest.testGetCredentials  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at programmingtheiot.part01.unit.common.ConfigUtilTest.testGetCredentials(ConfigUtilTest.java:87)
+

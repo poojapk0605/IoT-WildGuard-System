@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: programmingtheiot.part04.integration.connection.SmtpClientConnectorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.315 s <<< FAILURE! - in programmingtheiot.part04.integration.connection.SmtpClientConnectorTest
+programmingtheiot.part04.integration.connection.SmtpClientConnectorTest.testSendMessage  Time elapsed: 0.832 s  <<< FAILURE!
+java.lang.AssertionError
+	at programmingtheiot.part04.integration.connection.SmtpClientConnectorTest.testSendMessage(SmtpClientConnectorTest.java:108)
+
